@@ -1,5 +1,5 @@
-#heading
+# header
 Turtle Crossing game
 
-#subheading
+# subheading
 A game where a you have to help the turtle crossing the road.
