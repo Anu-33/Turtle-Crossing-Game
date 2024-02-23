@@ -1,4 +1,4 @@
-# header
+# Header
 Turtle Crossing game
 
 # subheading
