@@ -1,6 +1,6 @@
 from turtle import Turtle
 
-FONT = ("Berthold Block", 20, "normal")
+FONT = ("bold", 20, "normal")
 
 
 class Scoreboard(Turtle):
